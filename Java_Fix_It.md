@@ -12,7 +12,7 @@ Each program below contains one or more errors. Your job is to:
 4. Fix the code.
 5. Run it again and confirm that it works as described.
 
-Do **not** rewrite the programs from scratch. Fix the existing code.
+The short practice problems are there to help you prepare for the final challenge.
 
 ---
 
@@ -242,7 +242,7 @@ Fix the program so the search works correctly.
 
 # Final Debugging Challenge
 
-The program below combines the array concepts from this week's class.
+The program below combines the same kinds of errors you worked on above.
 
 The finished program should:
 
@@ -254,7 +254,7 @@ The finished program should:
 6. Tell the user whether the show was found.
 7. If the show was found, print its index.
 
-The program contains **multiple errors**.
+The program contains **multiple errors**, including errors like the ones from the earlier practice problems.
 
 ```java
 import java.util.Scanner;
@@ -323,6 +323,14 @@ One Piece
 Enter a show to search for: Black Clover
 Show found at index 1
 ```
+
+---
+
+## Submission
+
+Submit **only** your corrected `AnimeArrayDebug.java` file to Blackboard.
+
+Do **not** submit ZIP files, screenshots, Word documents, PDFs, or any other file type.
 
 ---
 
